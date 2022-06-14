@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092005884547",
+    "project_id": "nediososyal",
+    "storage_bucket": "nediososyal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092005884547:android:c2507e5e7140ed59bbe1b6",
+        "android_client_info": {
+          "package_name": "com.example.genelsinav3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092005884547-dartuartb9jdvc5orcvt482qugsjet6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPigMalTZsIngUnECZmDAqo__SptlmCfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092005884547-dartuartb9jdvc5orcvt482qugsjet6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
